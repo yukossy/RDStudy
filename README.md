@@ -1,2 +1,2 @@
 # RDStudy
-swif勉強のためのアプリ
+swift勉強のためのアプリ
