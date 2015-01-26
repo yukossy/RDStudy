@@ -269,11 +269,11 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hxa-1i-ms5">
-                                <rect key="frame" x="170" y="431" width="120" height="72"/>
+                                <rect key="frame" x="175" y="431" width="110" height="72"/>
                                 <color key="backgroundColor" red="0.99607843139999996" green="0.71764705880000002" blue="0.41176470590000003" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="72" id="X3w-yi-eO4"/>
-                                    <constraint firstAttribute="width" constant="120" id="cv1-AY-ZM6"/>
+                                    <constraint firstAttribute="width" constant="110" id="cv1-AY-ZM6"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                 <state key="normal" title="No">
@@ -285,10 +285,10 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="u3g-RA-ABO">
-                                <rect key="frame" x="310" y="431" width="120" height="72"/>
+                                <rect key="frame" x="315" y="431" width="110" height="72"/>
                                 <color key="backgroundColor" red="0.99607843139999996" green="0.71764705880000002" blue="0.41176470590000003" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="120" id="H2c-yZ-0lF"/>
+                                    <constraint firstAttribute="width" constant="110" id="H2c-yZ-0lF"/>
                                     <constraint firstAttribute="height" constant="72" id="S5A-Td-0Os"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
@@ -351,6 +351,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="QUc-A1-CvN"/>
+        <segue reference="Bhq-st-wW9"/>
     </inferredMetricsTieBreakers>
 </document>
